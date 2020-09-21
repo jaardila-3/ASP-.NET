@@ -1,0 +1,199 @@
+c:\users\acer\documents\visual studio 2015\Projects\EmpleadosMVC\EmpleadosMVC\bin\ApplicationInsights.config
+c:\users\acer\documents\visual studio 2015\Projects\EmpleadosMVC\EmpleadosMVC\bin\roslyn\csc.exe
+c:\users\acer\documents\visual studio 2015\Projects\EmpleadosMVC\EmpleadosMVC\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\acer\documents\visual studio 2015\Projects\EmpleadosMVC\EmpleadosMVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\acer\documents\visual studio 2015\Projects\EmpleadosMVC\EmpleadosMVC\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\acer\documents\visual studio 2015\Projects\EmpleadosMVC\EmpleadosMVC\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\acer\documents\visual studio 2015\Projects\EmpleadosMVC\EmpleadosMVC\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\acer\documents\visual studio 2015\Projects\EmpleadosMVC\EmpleadosMVC\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\acer\documents\visual studio 2015\Projects\EmpleadosMVC\EmpleadosMVC\bin\roslyn\System.Collections.Immutable.dll
+c:\users\acer\documents\visual studio 2015\Projects\EmpleadosMVC\EmpleadosMVC\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\acer\documents\visual studio 2015\Projects\EmpleadosMVC\EmpleadosMVC\bin\roslyn\vbc.exe
+c:\users\acer\documents\visual studio 2015\Projects\EmpleadosMVC\EmpleadosMVC\bin\roslyn\VBCSCompiler.exe
+c:\users\acer\documents\visual studio 2015\Projects\EmpleadosMVC\EmpleadosMVC\bin\roslyn\VBCSCompiler.exe.config
+c:\users\acer\documents\visual studio 2015\Projects\EmpleadosMVC\EmpleadosMVC\bin\EmpleadosMVC.dll.config
+c:\users\acer\documents\visual studio 2015\Projects\EmpleadosMVC\EmpleadosMVC\bin\EmpleadosMVC.dll
+c:\users\acer\documents\visual studio 2015\Projects\EmpleadosMVC\EmpleadosMVC\bin\EmpleadosMVC.pdb
+c:\users\acer\documents\visual studio 2015\Projects\EmpleadosMVC\EmpleadosMVC\bin\Antlr3.Runtime.dll
+c:\users\acer\documents\visual studio 2015\Projects\EmpleadosMVC\EmpleadosMVC\bin\EntityFramework.dll
+c:\users\acer\documents\visual studio 2015\Projects\EmpleadosMVC\EmpleadosMVC\bin\EntityFramework.SqlServer.dll
+c:\users\acer\documents\visual studio 2015\Projects\EmpleadosMVC\EmpleadosMVC\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\acer\documents\visual studio 2015\Projects\EmpleadosMVC\EmpleadosMVC\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\acer\documents\visual studio 2015\Projects\EmpleadosMVC\EmpleadosMVC\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\acer\documents\visual studio 2015\Projects\EmpleadosMVC\EmpleadosMVC\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\acer\documents\visual studio 2015\Projects\EmpleadosMVC\EmpleadosMVC\bin\Microsoft.AI.Web.dll
+c:\users\acer\documents\visual studio 2015\Projects\EmpleadosMVC\EmpleadosMVC\bin\Microsoft.AI.WindowsServer.dll
+c:\users\acer\documents\visual studio 2015\Projects\EmpleadosMVC\EmpleadosMVC\bin\Microsoft.ApplicationInsights.dll
+c:\users\acer\documents\visual studio 2015\Projects\EmpleadosMVC\EmpleadosMVC\bin\Microsoft.AspNet.Identity.Core.dll
+c:\users\acer\documents\visual studio 2015\Projects\EmpleadosMVC\EmpleadosMVC\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+c:\users\acer\documents\visual studio 2015\Projects\EmpleadosMVC\EmpleadosMVC\bin\Microsoft.AspNet.Identity.Owin.dll
+c:\users\acer\documents\visual studio 2015\Projects\EmpleadosMVC\EmpleadosMVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\acer\documents\visual studio 2015\Projects\EmpleadosMVC\EmpleadosMVC\bin\Microsoft.Owin.dll
+c:\users\acer\documents\visual studio 2015\Projects\EmpleadosMVC\EmpleadosMVC\bin\Microsoft.Owin.Host.SystemWeb.dll
+c:\users\acer\documents\visual studio 2015\Projects\EmpleadosMVC\EmpleadosMVC\bin\Microsoft.Owin.Security.Cookies.dll
+c:\users\acer\documents\visual studio 2015\Projects\EmpleadosMVC\EmpleadosMVC\bin\Microsoft.Owin.Security.dll
+c:\users\acer\documents\visual studio 2015\Projects\EmpleadosMVC\EmpleadosMVC\bin\Microsoft.Owin.Security.Facebook.dll
+c:\users\acer\documents\visual studio 2015\Projects\EmpleadosMVC\EmpleadosMVC\bin\Microsoft.Owin.Security.Google.dll
+c:\users\acer\documents\visual studio 2015\Projects\EmpleadosMVC\EmpleadosMVC\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+c:\users\acer\documents\visual studio 2015\Projects\EmpleadosMVC\EmpleadosMVC\bin\Microsoft.Owin.Security.OAuth.dll
+c:\users\acer\documents\visual studio 2015\Projects\EmpleadosMVC\EmpleadosMVC\bin\Microsoft.Owin.Security.Twitter.dll
+c:\users\acer\documents\visual studio 2015\Projects\EmpleadosMVC\EmpleadosMVC\bin\Microsoft.Web.Infrastructure.dll
+c:\users\acer\documents\visual studio 2015\Projects\EmpleadosMVC\EmpleadosMVC\bin\Newtonsoft.Json.dll
+c:\users\acer\documents\visual studio 2015\Projects\EmpleadosMVC\EmpleadosMVC\bin\Owin.dll
+c:\users\acer\documents\visual studio 2015\Projects\EmpleadosMVC\EmpleadosMVC\bin\System.Web.Helpers.dll
+c:\users\acer\documents\visual studio 2015\Projects\EmpleadosMVC\EmpleadosMVC\bin\System.Web.Mvc.dll
+c:\users\acer\documents\visual studio 2015\Projects\EmpleadosMVC\EmpleadosMVC\bin\System.Web.Optimization.dll
+c:\users\acer\documents\visual studio 2015\Projects\EmpleadosMVC\EmpleadosMVC\bin\System.Web.Razor.dll
+c:\users\acer\documents\visual studio 2015\Projects\EmpleadosMVC\EmpleadosMVC\bin\System.Web.WebPages.Deployment.dll
+c:\users\acer\documents\visual studio 2015\Projects\EmpleadosMVC\EmpleadosMVC\bin\System.Web.WebPages.dll
+c:\users\acer\documents\visual studio 2015\Projects\EmpleadosMVC\EmpleadosMVC\bin\System.Web.WebPages.Razor.dll
+c:\users\acer\documents\visual studio 2015\Projects\EmpleadosMVC\EmpleadosMVC\bin\WebGrease.dll
+c:\users\acer\documents\visual studio 2015\Projects\EmpleadosMVC\EmpleadosMVC\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\acer\documents\visual studio 2015\Projects\EmpleadosMVC\EmpleadosMVC\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\acer\documents\visual studio 2015\Projects\EmpleadosMVC\EmpleadosMVC\bin\Microsoft.AI.Web.xml
+c:\users\acer\documents\visual studio 2015\Projects\EmpleadosMVC\EmpleadosMVC\bin\Microsoft.AI.WindowsServer.xml
+c:\users\acer\documents\visual studio 2015\Projects\EmpleadosMVC\EmpleadosMVC\bin\Microsoft.ApplicationInsights.xml
+c:\users\acer\documents\visual studio 2015\Projects\EmpleadosMVC\EmpleadosMVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\acer\documents\visual studio 2015\Projects\EmpleadosMVC\EmpleadosMVC\bin\System.Web.Helpers.xml
+c:\users\acer\documents\visual studio 2015\Projects\EmpleadosMVC\EmpleadosMVC\bin\System.Web.Mvc.xml
+c:\users\acer\documents\visual studio 2015\Projects\EmpleadosMVC\EmpleadosMVC\bin\System.Web.Optimization.xml
+c:\users\acer\documents\visual studio 2015\Projects\EmpleadosMVC\EmpleadosMVC\bin\System.Web.Razor.xml
+c:\users\acer\documents\visual studio 2015\Projects\EmpleadosMVC\EmpleadosMVC\bin\System.Web.WebPages.xml
+c:\users\acer\documents\visual studio 2015\Projects\EmpleadosMVC\EmpleadosMVC\bin\System.Web.WebPages.Deployment.xml
+c:\users\acer\documents\visual studio 2015\Projects\EmpleadosMVC\EmpleadosMVC\bin\System.Web.WebPages.Razor.xml
+c:\users\acer\documents\visual studio 2015\Projects\EmpleadosMVC\EmpleadosMVC\bin\Antlr3.Runtime.pdb
+c:\users\acer\documents\visual studio 2015\Projects\EmpleadosMVC\EmpleadosMVC\bin\Newtonsoft.Json.xml
+c:\users\acer\documents\visual studio 2015\Projects\EmpleadosMVC\EmpleadosMVC\bin\EntityFramework.xml
+c:\users\acer\documents\visual studio 2015\Projects\EmpleadosMVC\EmpleadosMVC\bin\EntityFramework.SqlServer.xml
+c:\users\acer\documents\visual studio 2015\Projects\EmpleadosMVC\EmpleadosMVC\bin\Microsoft.AspNet.Identity.Core.xml
+c:\users\acer\documents\visual studio 2015\Projects\EmpleadosMVC\EmpleadosMVC\bin\Microsoft.AspNet.Identity.Owin.xml
+c:\users\acer\documents\visual studio 2015\Projects\EmpleadosMVC\EmpleadosMVC\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+c:\users\acer\documents\visual studio 2015\Projects\EmpleadosMVC\EmpleadosMVC\bin\Microsoft.Owin.xml
+c:\users\acer\documents\visual studio 2015\Projects\EmpleadosMVC\EmpleadosMVC\bin\Microsoft.Owin.Host.SystemWeb.xml
+c:\users\acer\documents\visual studio 2015\Projects\EmpleadosMVC\EmpleadosMVC\bin\Microsoft.Owin.Security.xml
+c:\users\acer\documents\visual studio 2015\Projects\EmpleadosMVC\EmpleadosMVC\bin\Microsoft.Owin.Security.Facebook.xml
+c:\users\acer\documents\visual studio 2015\Projects\EmpleadosMVC\EmpleadosMVC\bin\Microsoft.Owin.Security.Cookies.xml
+c:\users\acer\documents\visual studio 2015\Projects\EmpleadosMVC\EmpleadosMVC\bin\Microsoft.Owin.Security.OAuth.xml
+c:\users\acer\documents\visual studio 2015\Projects\EmpleadosMVC\EmpleadosMVC\bin\Microsoft.Owin.Security.Google.xml
+c:\users\acer\documents\visual studio 2015\Projects\EmpleadosMVC\EmpleadosMVC\bin\Microsoft.Owin.Security.Twitter.xml
+c:\users\acer\documents\visual studio 2015\Projects\EmpleadosMVC\EmpleadosMVC\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+c:\users\acer\documents\visual studio 2015\Projects\EmpleadosMVC\EmpleadosMVC\bin\es\System.Web.Helpers.resources.dll
+c:\users\acer\documents\visual studio 2015\Projects\EmpleadosMVC\EmpleadosMVC\bin\es\System.Web.Mvc.resources.dll
+c:\users\acer\documents\visual studio 2015\Projects\EmpleadosMVC\EmpleadosMVC\bin\es\System.Web.Optimization.resources.dll
+c:\users\acer\documents\visual studio 2015\Projects\EmpleadosMVC\EmpleadosMVC\bin\es\System.Web.Razor.resources.dll
+c:\users\acer\documents\visual studio 2015\Projects\EmpleadosMVC\EmpleadosMVC\bin\es\System.Web.WebPages.resources.dll
+c:\users\acer\documents\visual studio 2015\Projects\EmpleadosMVC\EmpleadosMVC\bin\es\System.Web.WebPages.Deployment.resources.dll
+c:\users\acer\documents\visual studio 2015\Projects\EmpleadosMVC\EmpleadosMVC\bin\es\System.Web.WebPages.Razor.resources.dll
+c:\users\acer\documents\visual studio 2015\Projects\EmpleadosMVC\EmpleadosMVC\bin\es\EntityFramework.resources.dll
+c:\users\acer\documents\visual studio 2015\Projects\EmpleadosMVC\EmpleadosMVC\bin\es\EntityFramework.SqlServer.resources.dll
+c:\users\acer\documents\visual studio 2015\Projects\EmpleadosMVC\EmpleadosMVC\bin\es\Microsoft.AspNet.Identity.Core.resources.dll
+c:\users\acer\documents\visual studio 2015\Projects\EmpleadosMVC\EmpleadosMVC\bin\es\Microsoft.AspNet.Identity.Owin.resources.dll
+c:\users\acer\documents\visual studio 2015\Projects\EmpleadosMVC\EmpleadosMVC\bin\es\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+c:\users\acer\documents\visual studio 2015\Projects\EmpleadosMVC\EmpleadosMVC\bin\es\Microsoft.Owin.resources.dll
+c:\users\acer\documents\visual studio 2015\Projects\EmpleadosMVC\EmpleadosMVC\bin\es\Microsoft.Owin.Host.SystemWeb.resources.dll
+c:\users\acer\documents\visual studio 2015\Projects\EmpleadosMVC\EmpleadosMVC\bin\es\Microsoft.Owin.Security.resources.dll
+c:\users\acer\documents\visual studio 2015\Projects\EmpleadosMVC\EmpleadosMVC\bin\es\Microsoft.Owin.Security.Facebook.resources.dll
+c:\users\acer\documents\visual studio 2015\Projects\EmpleadosMVC\EmpleadosMVC\bin\es\Microsoft.Owin.Security.Google.resources.dll
+c:\users\acer\documents\visual studio 2015\Projects\EmpleadosMVC\EmpleadosMVC\bin\es\Microsoft.Owin.Security.Twitter.resources.dll
+c:\users\acer\documents\visual studio 2015\Projects\EmpleadosMVC\EmpleadosMVC\bin\es\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+c:\users\acer\documents\visual studio 2015\Projects\EmpleadosMVC\EmpleadosMVC\obj\Debug\EmpleadosMVC.csprojResolveAssemblyReference.cache
+c:\users\acer\documents\visual studio 2015\Projects\EmpleadosMVC\EmpleadosMVC\obj\Debug\EmpleadosMVC.dll
+c:\users\acer\documents\visual studio 2015\Projects\EmpleadosMVC\EmpleadosMVC\obj\Debug\EmpleadosMVC.pdb
+C:\Users\acer\documents\visual studio 2015\Projects\EmpleadosMVC\EmpleadosMVC\obj\Debug\EmpleadosMVC.Migrations.Initial.resources
+C:\Users\acer\documents\visual studio 2015\Projects\EmpleadosMVC\EmpleadosMVC\obj\Debug\EmpleadosMVC.csproj.GenerateResource.Cache
+C:\Users\acer\documents\visual studio 2015\Projects\EmpleadosMVC\EmpleadosMVC\obj\Debug\EmpleadosMVC.Migrations.Categoria.resources
+C:\Users\acer\documents\visual studio 2015\Projects\EmpleadosMVC\EmpleadosMVC\obj\Debug\EmpleadosMVC.Migrations.Dataannotations.resources
+C:\Users\jorge\Downloads\EmpleadosMVC\EmpleadosMVC\bin\ApplicationInsights.config
+C:\Users\jorge\Downloads\EmpleadosMVC\EmpleadosMVC\bin\EmpleadosMVC.dll.config
+C:\Users\jorge\Downloads\EmpleadosMVC\EmpleadosMVC\bin\EmpleadosMVC.dll
+C:\Users\jorge\Downloads\EmpleadosMVC\EmpleadosMVC\bin\EmpleadosMVC.pdb
+C:\Users\jorge\Downloads\EmpleadosMVC\EmpleadosMVC\bin\Antlr3.Runtime.dll
+C:\Users\jorge\Downloads\EmpleadosMVC\EmpleadosMVC\bin\EntityFramework.dll
+C:\Users\jorge\Downloads\EmpleadosMVC\EmpleadosMVC\bin\EntityFramework.SqlServer.dll
+C:\Users\jorge\Downloads\EmpleadosMVC\EmpleadosMVC\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\jorge\Downloads\EmpleadosMVC\EmpleadosMVC\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\jorge\Downloads\EmpleadosMVC\EmpleadosMVC\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\jorge\Downloads\EmpleadosMVC\EmpleadosMVC\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\jorge\Downloads\EmpleadosMVC\EmpleadosMVC\bin\Microsoft.AI.Web.dll
+C:\Users\jorge\Downloads\EmpleadosMVC\EmpleadosMVC\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\jorge\Downloads\EmpleadosMVC\EmpleadosMVC\bin\Microsoft.ApplicationInsights.dll
+C:\Users\jorge\Downloads\EmpleadosMVC\EmpleadosMVC\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\jorge\Downloads\EmpleadosMVC\EmpleadosMVC\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\jorge\Downloads\EmpleadosMVC\EmpleadosMVC\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\jorge\Downloads\EmpleadosMVC\EmpleadosMVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\jorge\Downloads\EmpleadosMVC\EmpleadosMVC\bin\Microsoft.Owin.dll
+C:\Users\jorge\Downloads\EmpleadosMVC\EmpleadosMVC\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\jorge\Downloads\EmpleadosMVC\EmpleadosMVC\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\jorge\Downloads\EmpleadosMVC\EmpleadosMVC\bin\Microsoft.Owin.Security.dll
+C:\Users\jorge\Downloads\EmpleadosMVC\EmpleadosMVC\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\jorge\Downloads\EmpleadosMVC\EmpleadosMVC\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\jorge\Downloads\EmpleadosMVC\EmpleadosMVC\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\jorge\Downloads\EmpleadosMVC\EmpleadosMVC\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\jorge\Downloads\EmpleadosMVC\EmpleadosMVC\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\jorge\Downloads\EmpleadosMVC\EmpleadosMVC\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\jorge\Downloads\EmpleadosMVC\EmpleadosMVC\bin\Newtonsoft.Json.dll
+C:\Users\jorge\Downloads\EmpleadosMVC\EmpleadosMVC\bin\Owin.dll
+C:\Users\jorge\Downloads\EmpleadosMVC\EmpleadosMVC\bin\System.Web.Helpers.dll
+C:\Users\jorge\Downloads\EmpleadosMVC\EmpleadosMVC\bin\System.Web.Mvc.dll
+C:\Users\jorge\Downloads\EmpleadosMVC\EmpleadosMVC\bin\System.Web.Optimization.dll
+C:\Users\jorge\Downloads\EmpleadosMVC\EmpleadosMVC\bin\System.Web.Razor.dll
+C:\Users\jorge\Downloads\EmpleadosMVC\EmpleadosMVC\bin\System.Web.WebPages.Deployment.dll
+C:\Users\jorge\Downloads\EmpleadosMVC\EmpleadosMVC\bin\System.Web.WebPages.dll
+C:\Users\jorge\Downloads\EmpleadosMVC\EmpleadosMVC\bin\System.Web.WebPages.Razor.dll
+C:\Users\jorge\Downloads\EmpleadosMVC\EmpleadosMVC\bin\WebGrease.dll
+C:\Users\jorge\Downloads\EmpleadosMVC\EmpleadosMVC\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\jorge\Downloads\EmpleadosMVC\EmpleadosMVC\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\jorge\Downloads\EmpleadosMVC\EmpleadosMVC\bin\Microsoft.AI.Web.xml
+C:\Users\jorge\Downloads\EmpleadosMVC\EmpleadosMVC\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\jorge\Downloads\EmpleadosMVC\EmpleadosMVC\bin\Microsoft.ApplicationInsights.xml
+C:\Users\jorge\Downloads\EmpleadosMVC\EmpleadosMVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\jorge\Downloads\EmpleadosMVC\EmpleadosMVC\bin\System.Web.Helpers.xml
+C:\Users\jorge\Downloads\EmpleadosMVC\EmpleadosMVC\bin\System.Web.Mvc.xml
+C:\Users\jorge\Downloads\EmpleadosMVC\EmpleadosMVC\bin\System.Web.Optimization.xml
+C:\Users\jorge\Downloads\EmpleadosMVC\EmpleadosMVC\bin\System.Web.Razor.xml
+C:\Users\jorge\Downloads\EmpleadosMVC\EmpleadosMVC\bin\System.Web.WebPages.xml
+C:\Users\jorge\Downloads\EmpleadosMVC\EmpleadosMVC\bin\System.Web.WebPages.Deployment.xml
+C:\Users\jorge\Downloads\EmpleadosMVC\EmpleadosMVC\bin\System.Web.WebPages.Razor.xml
+C:\Users\jorge\Downloads\EmpleadosMVC\EmpleadosMVC\bin\Antlr3.Runtime.pdb
+C:\Users\jorge\Downloads\EmpleadosMVC\EmpleadosMVC\bin\Newtonsoft.Json.xml
+C:\Users\jorge\Downloads\EmpleadosMVC\EmpleadosMVC\bin\EntityFramework.xml
+C:\Users\jorge\Downloads\EmpleadosMVC\EmpleadosMVC\bin\EntityFramework.SqlServer.xml
+C:\Users\jorge\Downloads\EmpleadosMVC\EmpleadosMVC\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\jorge\Downloads\EmpleadosMVC\EmpleadosMVC\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\jorge\Downloads\EmpleadosMVC\EmpleadosMVC\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\jorge\Downloads\EmpleadosMVC\EmpleadosMVC\bin\Microsoft.Owin.xml
+C:\Users\jorge\Downloads\EmpleadosMVC\EmpleadosMVC\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\jorge\Downloads\EmpleadosMVC\EmpleadosMVC\bin\Microsoft.Owin.Security.xml
+C:\Users\jorge\Downloads\EmpleadosMVC\EmpleadosMVC\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\jorge\Downloads\EmpleadosMVC\EmpleadosMVC\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\jorge\Downloads\EmpleadosMVC\EmpleadosMVC\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\jorge\Downloads\EmpleadosMVC\EmpleadosMVC\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\jorge\Downloads\EmpleadosMVC\EmpleadosMVC\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\jorge\Downloads\EmpleadosMVC\EmpleadosMVC\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\jorge\Downloads\EmpleadosMVC\EmpleadosMVC\bin\es\System.Web.Helpers.resources.dll
+C:\Users\jorge\Downloads\EmpleadosMVC\EmpleadosMVC\bin\es\System.Web.Mvc.resources.dll
+C:\Users\jorge\Downloads\EmpleadosMVC\EmpleadosMVC\bin\es\System.Web.Optimization.resources.dll
+C:\Users\jorge\Downloads\EmpleadosMVC\EmpleadosMVC\bin\es\System.Web.Razor.resources.dll
+C:\Users\jorge\Downloads\EmpleadosMVC\EmpleadosMVC\bin\es\System.Web.WebPages.resources.dll
+C:\Users\jorge\Downloads\EmpleadosMVC\EmpleadosMVC\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\jorge\Downloads\EmpleadosMVC\EmpleadosMVC\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\jorge\Downloads\EmpleadosMVC\EmpleadosMVC\bin\es\EntityFramework.resources.dll
+C:\Users\jorge\Downloads\EmpleadosMVC\EmpleadosMVC\bin\es\EntityFramework.SqlServer.resources.dll
+C:\Users\jorge\Downloads\EmpleadosMVC\EmpleadosMVC\bin\es\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\jorge\Downloads\EmpleadosMVC\EmpleadosMVC\bin\es\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\jorge\Downloads\EmpleadosMVC\EmpleadosMVC\bin\es\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\jorge\Downloads\EmpleadosMVC\EmpleadosMVC\bin\es\Microsoft.Owin.resources.dll
+C:\Users\jorge\Downloads\EmpleadosMVC\EmpleadosMVC\bin\es\Microsoft.Owin.Host.SystemWeb.resources.dll
+C:\Users\jorge\Downloads\EmpleadosMVC\EmpleadosMVC\bin\es\Microsoft.Owin.Security.resources.dll
+C:\Users\jorge\Downloads\EmpleadosMVC\EmpleadosMVC\bin\es\Microsoft.Owin.Security.Facebook.resources.dll
+C:\Users\jorge\Downloads\EmpleadosMVC\EmpleadosMVC\bin\es\Microsoft.Owin.Security.Google.resources.dll
+C:\Users\jorge\Downloads\EmpleadosMVC\EmpleadosMVC\bin\es\Microsoft.Owin.Security.Twitter.resources.dll
+C:\Users\jorge\Downloads\EmpleadosMVC\EmpleadosMVC\obj\Debug\EmpleadosMVC.csprojAssemblyReference.cache
+C:\Users\jorge\Downloads\EmpleadosMVC\EmpleadosMVC\obj\Debug\EmpleadosMVC.Migrations.Initial.resources
+C:\Users\jorge\Downloads\EmpleadosMVC\EmpleadosMVC\obj\Debug\EmpleadosMVC.Migrations.Categoria.resources
+C:\Users\jorge\Downloads\EmpleadosMVC\EmpleadosMVC\obj\Debug\EmpleadosMVC.Migrations.Dataannotations.resources
+C:\Users\jorge\Downloads\EmpleadosMVC\EmpleadosMVC\obj\Debug\EmpleadosMVC.csproj.GenerateResource.cache
+C:\Users\jorge\Downloads\EmpleadosMVC\EmpleadosMVC\obj\Debug\EmpleadosMVC.csproj.CoreCompileInputs.cache
+C:\Users\jorge\Downloads\EmpleadosMVC\EmpleadosMVC\obj\Debug\EmpleadosMVC.csproj.CopyComplete
+C:\Users\jorge\Downloads\EmpleadosMVC\EmpleadosMVC\obj\Debug\EmpleadosMVC.dll
+C:\Users\jorge\Downloads\EmpleadosMVC\EmpleadosMVC\obj\Debug\EmpleadosMVC.pdb
