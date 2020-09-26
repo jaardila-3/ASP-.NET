@@ -1,0 +1,32 @@
+﻿@using MiPrimeraAplicacionWebConEntityFramework.Models
+@model List<ClienteCLS>
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+
+<table class="table table-bordered table-hover">
+    <thead>
+        <tr>
+            <td width="10%"><strong>ID Cliente</strong></td>
+            <td width="20%"><strong>Nombre Cliente</strong></td>
+            <td width="20%"><strong>Apellido Paterno</strong></td>
+            <td width="20%"><strong>Apellido Materno</strong></td>
+            <td width="30%"><strong>Direccion</strong></td>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+        <tr>
+            <td>@item.IDCliente</td>
+            <td>@item.Nombre</td>
+            <td>@item.APPaterno</td>
+            <td>@item.APMaterno</td>
+            <td>@item.Direccion</td>
+        </tr>
+        }
+
+    </tbody>
+</table>

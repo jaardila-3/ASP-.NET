@@ -1,0 +1,35 @@
+﻿@using MiPrimeraAplicacionWebConEntityFramework.Models
+@model MarcaCLS
+@{
+    ViewBag.Title = "Agregar";
+}
+
+<h2>Agregar</h2>
+<!--con bootstrap creamos una rejilla-->
+<div class="row">
+    <div class="col-md-6">
+        <!--creamos el formulario(nombre del metodo, nombre del controlador, metodo para envio de datos)-->
+        @using (Html.BeginForm("Agregar", "Marca", FormMethod.Post))
+        {
+            <div>
+                @Html.LabelFor(p => p.Nombre) <!--helper del tag de MarcaCLS-->
+                <!--creamos una caja de texto y con bootstrap le digo que ocupe un 100% del contenedor-->
+                @Html.TextBoxFor(p => p.Nombre, new { @class = "form-control" })
+                <!--helper para validar el tag del modelo-->
+                @Html.ValidationMessage("Nombre", new { @class="text-danger"})
+            </div>
+
+            <div>
+                <label>Descripcion Marca</label>
+                @Html.TextBoxFor(p => p.Descripcion, new { @class = "form-control" })
+                @Html.ValidationMessage("Descripcion", new { @class = "text-danger" })
+            </div>
+            <br />
+
+            <div style="margin:auto">
+                <input type="submit" class="btn btn-primary" value="Guardar"/>
+            </div>
+        }
+    </div>
+</div>
+

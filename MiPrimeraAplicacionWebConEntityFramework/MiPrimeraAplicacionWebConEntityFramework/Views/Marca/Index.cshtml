@@ -1,0 +1,31 @@
+﻿@using MiPrimeraAplicacionWebConEntityFramework.Models;
+@model List<MarcaCLS>
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+<!--creamos un link(nombre del link, nombre del metodo, nombre dell controlador)-->
+<!--le damos forma de boton con la bootstrap, asi: -->
+@Html.ActionLink("Agregar", "Agregar", "Marca", null, new { @class="btn btn-primary"})
+
+<table class="table table-bordered table-hover">
+    <thead>
+        <tr>
+            <td width="10%"><strong>ID Marca</strong></td>
+            <td width="20%">Nombre Marca</td>
+            <td width="70%">@Html.LabelFor(p => Model[0].Descripcion)</td> <!--helper para los tag anotation del modelo-->
+        </tr>
+    </thead>
+    <tbody>
+        @foreach(var item in Model)
+        {
+        <tr>
+            <td>@item.IIDMarca</td>
+            <td>@item.Nombre</td>
+            <td>@item.Descripcion</td>
+        </tr>
+        }
+        
+    </tbody>
+</table>
