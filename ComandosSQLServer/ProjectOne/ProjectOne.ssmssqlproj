@@ -1,0 +1,82 @@
+<?xml version="1.0"?>
+<SqlWorkbenchSqlProject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="ProjectOne">
+  <Items>
+    <LogicalFolder Name="Connections" Type="2" Sorted="true">
+      <Items>
+        <ConnectionNode Name="DESKTOP-EJ8MSOH:DESKTOP-EJ8MSOH\jorge">
+          <Created>2020-09-20T20:33:09.231292-05:00</Created>
+          <Type>SQL</Type>
+          <Server>DESKTOP-EJ8MSOH</Server>
+          <UserName />
+          <Authentication>Windows Authentication</Authentication>
+          <InitialDB>MyDBExample</InitialDB>
+          <LoginTimeout>30</LoginTimeout>
+          <ExecutionTimeout>0</ExecutionTimeout>
+          <ConnectionProtocol>NotSpecified</ConnectionProtocol>
+          <ApplicationName>Microsoft SQL Server Management Studio - Query</ApplicationName>
+        </ConnectionNode>
+      </Items>
+    </LogicalFolder>
+    <LogicalFolder Name="Queries" Type="0" Sorted="true">
+      <Items>
+        <FileNode Name="DELETE.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-EJ8MSOH:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-EJ8MSOH</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>DELETE.sql</FullPath>
+        </FileNode>
+        <FileNode Name="SELECT.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-EJ8MSOH:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-EJ8MSOH</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>SELECT.sql</FullPath>
+        </FileNode>
+        <FileNode Name="SP_INNER_JOIN.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-EJ8MSOH:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-EJ8MSOH</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>SP_INNER_JOIN.sql</FullPath>
+        </FileNode>
+        <FileNode Name="SP_INSERT_PRODUCTO.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-EJ8MSOH:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-EJ8MSOH</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>SP_INSERT_PRODUCTO.sql</FullPath>
+        </FileNode>
+        <FileNode Name="SP_INSERTAR_VENTA.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-EJ8MSOH:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-EJ8MSOH</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>SP_INSERTAR_VENTA.sql</FullPath>
+        </FileNode>
+        <FileNode Name="SP_SELECT_PRODUCTO.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-EJ8MSOH:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-EJ8MSOH</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>SP_SELECT_PRODUCTO.sql</FullPath>
+        </FileNode>
+        <FileNode Name="SP_SUM.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-EJ8MSOH:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-EJ8MSOH</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>SP_SUM.sql</FullPath>
+        </FileNode>
+        <FileNode Name="SP_UPDATE_VENTA.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-EJ8MSOH:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-EJ8MSOH</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>SP_UPDATE_VENTA.sql</FullPath>
+        </FileNode>
+        <FileNode Name="UPDATE.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-EJ8MSOH:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-EJ8MSOH</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>UPDATE.sql</FullPath>
+        </FileNode>
+      </Items>
+    </LogicalFolder>
+    <LogicalFolder Name="Miscellaneous" Type="3" Sorted="true">
+      <Items />
+    </LogicalFolder>
+  </Items>
+</SqlWorkbenchSqlProject>
