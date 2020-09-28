@@ -5,6 +5,7 @@
 }
 
 <h2>Index</h2>
+@Html.ActionLink("Agregar","Agregar","Cliente",null,new { @class="btn btn-primary"})
 
 <table class="table table-bordered table-hover">
     <thead>
@@ -13,7 +14,8 @@
             <td width="20%"><strong>Nombre Cliente</strong></td>
             <td width="20%"><strong>Apellido Paterno</strong></td>
             <td width="20%"><strong>Apellido Materno</strong></td>
-            <td width="30%"><strong>Direccion</strong></td>
+            <td width="20%"><strong>Direccion</strong></td>
+            <td width="10%"><strong>Sexo</strong></td>
         </tr>
     </thead>
     <tbody>
@@ -25,6 +27,7 @@
             <td>@item.APPaterno</td>
             <td>@item.APMaterno</td>
             <td>@item.Direccion</td>
+            <td>@item.IDSexo</td>
         </tr>
         }
 
