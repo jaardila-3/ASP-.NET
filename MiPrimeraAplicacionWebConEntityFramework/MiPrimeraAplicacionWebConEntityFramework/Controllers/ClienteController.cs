@@ -55,5 +55,33 @@ namespace MiPrimeraAplicacionWebConEntityFramework.Controllers
             ViewBag.lista = listaSexo;//permite pasar la lista a la vista
             return View();
         }
+
+
+        [HttpPost]
+        public ActionResult Agregar(ClienteCLS oclienteCLS)
+        {
+            if (!ModelState.IsValid)
+            {
+                LlenarSexo();
+                ViewBag.lista = listaSexo;//volvemos a llenar el combobox en la vista
+                return View(oclienteCLS);
+            }
+            else
+            {
+                using (var bd = new BDPasajeEntities())
+                {
+                    Cliente ocliente = new Cliente();
+                    ocliente.NOMBRE = oclienteCLS.Nombre;
+                    ocliente.APPATERNO = oclienteCLS.APPaterno;
+                    ocliente.APMATERNO = oclienteCLS.APMaterno;
+                    ocliente.DIRECCION = oclienteCLS.Direccion;
+                    ocliente.IIDSEXO = oclienteCLS.IDSexo;
+                    ocliente.BHABILITADO = 1;
+                    bd.Cliente.Add(ocliente);
+                    bd.SaveChanges();
+                }
+            }
+            return RedirectToAction("Index");
+        }
     }
 }
