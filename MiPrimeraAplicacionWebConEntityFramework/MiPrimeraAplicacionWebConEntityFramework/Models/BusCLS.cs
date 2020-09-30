@@ -19,6 +19,11 @@ namespace MiPrimeraAplicacionWebConEntityFramework.Models
         [Required]
         public int IDTipoBus { get; set; }
 
+        [Display(Name = "Placa")]
+        [Required]
+        [StringLength(100, ErrorMessage = "Longitud maxima 100")]
+        public string Placa { get; set; }
+
         [Display(Name = "Fecha Compra")]
         [Required]
         [DataType(DataType.Date)]

@@ -20,6 +20,7 @@ namespace MiPrimeraAplicacionWebConEntityFramework.Controllers
                                   on oempleado.IIDTIPOUSUARIO equals otipousuario.IIDTIPOUSUARIO
                                   join otipocontrato in bd.TipoContrato
                                   on oempleado.IIDTIPOCONTRATO equals otipocontrato.IIDTIPOCONTRATO
+                                  where oempleado.BHABILITADO==1
                                   select new EmpleadoCLS
                                   {
                                       IDEmpleado = oempleado.IIDEMPLEADO,
