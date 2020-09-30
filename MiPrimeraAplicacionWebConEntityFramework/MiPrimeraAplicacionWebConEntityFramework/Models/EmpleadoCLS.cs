@@ -32,6 +32,11 @@ namespace MiPrimeraAplicacionWebConEntityFramework.Models
         [DisplayFormat(DataFormatString ="{0:YYYY-MM-DD}",ApplyFormatInEditMode =true)]
         public DateTime FechaContrato { get; set; }
 
+        [Display(Name = "Sueldo")]
+        [Required]
+        [Range(0,10000000,ErrorMessage ="Fuera de rango")]
+        public decimal Sueldo { get; set; }
+
         [Display(Name = "Tipo Usuario")]
         [Required]
         public int IDTipoUsuario { get; set; }

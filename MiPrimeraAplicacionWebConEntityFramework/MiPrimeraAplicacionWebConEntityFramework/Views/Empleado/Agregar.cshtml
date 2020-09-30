@@ -1,0 +1,77 @@
+﻿@using MiPrimeraAplicacionWebConEntityFramework.Models
+@model EmpleadoCLS
+@{
+    ViewBag.Title = "Agregar";
+    List<SelectListItem> listaSexo = (List<SelectListItem>)ViewBag.listaSexo;
+    List<SelectListItem> listaTipoContrato = (List<SelectListItem>)ViewBag.listaTipoContrato;
+    List<SelectListItem> listaTipoUsuario = (List<SelectListItem>)ViewBag.listaTipoUsuario;
+}
+
+<h2>Agregar</h2>
+
+<!--con bootstrap creamos una rejilla-->
+<div class="row">
+    <div class="col-md-6">
+        <!--creamos el formulario(nombre del metodo, nombre del controlador, metodo para envio de datos)-->
+        @using (Html.BeginForm("Agregar", "Empleado", FormMethod.Post))
+        {
+            <div>
+                @Html.LabelFor(p => p.Nombre) <!--helper del tag de MarcaCLS-->
+                <!--creamos una caja de texto y con bootstrap le digo que ocupe un 100% del contenedor-->
+                @Html.TextBoxFor(p => p.Nombre, new { @class = "form-control" })
+                <!--helper para validar el tag del modelo-->
+                @Html.ValidationMessage("Nombre", new { @class = "text-danger" })
+            </div>
+
+            <div>
+                @Html.LabelFor(p => p.APPaterno)
+                @Html.TextBoxFor(p => p.APPaterno, new { @class = "form-control" })
+                @Html.ValidationMessage("APPaterno", new { @class = "text-danger" })
+            </div>
+
+            <div>
+                @Html.LabelFor(p => p.APMaterno)
+                @Html.TextBoxFor(p => p.APMaterno, new { @class = "form-control" })
+                @Html.ValidationMessage("APMaterno", new { @class = "text-danger" })
+            </div>
+
+            <div><!--para las fechas con editorfor-->
+                @Html.LabelFor(p => p.FechaContrato)
+                @Html.EditorFor(p => p.FechaContrato, new { htmlAttributes = new { @class = "form-control" } })
+                @Html.ValidationMessage("FechaContrato", new { @class = "text-danger" })
+            </div>
+
+            <div>
+                @Html.LabelFor(p => p.Sueldo)
+                @Html.TextBoxFor(p => p.Sueldo, new { @class = "form-control" })
+                @Html.ValidationMessage("Sueldo", new { @class = "text-danger" })
+            </div>
+
+            <div>
+                <!--agregamos los combobox creados-->
+                @Html.LabelFor(p => p.IDTipoUsuario)
+                @Html.DropDownList("IDTipoUsuario", listaTipoUsuario, null, new { @class = "form-control" })
+                @Html.ValidationMessage("IDTipoUsuario", new { @class = "text-danger" })
+            </div>
+
+            <div>
+                <!--agregamos los combobox creados-->
+                @Html.LabelFor(p => p.IDTipoContrato)
+                @Html.DropDownList("IDTipoContrato", listaTipoContrato, null, new { @class = "form-control" })
+                @Html.ValidationMessage("IDTipoContrato", new { @class = "text-danger" })
+            </div>
+
+            <div>
+                <!--agregamos los combobox creados-->
+                @Html.LabelFor(p => p.IDSexo)
+                @Html.DropDownList("IDSexo", listaSexo, null, new { @class = "form-control" })
+                @Html.ValidationMessage("IDSexo", new { @class = "text-danger" })
+            </div>
+            <br />
+
+            <div style="margin:auto">
+                <input type="submit" class="btn btn-primary" value="Guardar" />
+            </div>
+        }
+    </div>
+</div>
