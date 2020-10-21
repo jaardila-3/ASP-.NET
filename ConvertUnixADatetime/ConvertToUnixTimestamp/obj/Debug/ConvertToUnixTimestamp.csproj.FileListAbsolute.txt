@@ -1,0 +1,7 @@
+C:\Users\yeison.murillop\source\repos\ConvertToUnixTimestamp\ConvertToUnixTimestamp\bin\Debug\ConvertToUnixTimestamp.exe.config
+C:\Users\yeison.murillop\source\repos\ConvertToUnixTimestamp\ConvertToUnixTimestamp\bin\Debug\ConvertToUnixTimestamp.exe
+C:\Users\yeison.murillop\source\repos\ConvertToUnixTimestamp\ConvertToUnixTimestamp\bin\Debug\ConvertToUnixTimestamp.pdb
+C:\Users\yeison.murillop\source\repos\ConvertToUnixTimestamp\ConvertToUnixTimestamp\obj\Debug\ConvertToUnixTimestamp.csprojAssemblyReference.cache
+C:\Users\yeison.murillop\source\repos\ConvertToUnixTimestamp\ConvertToUnixTimestamp\obj\Debug\ConvertToUnixTimestamp.csproj.CoreCompileInputs.cache
+C:\Users\yeison.murillop\source\repos\ConvertToUnixTimestamp\ConvertToUnixTimestamp\obj\Debug\ConvertToUnixTimestamp.exe
+C:\Users\yeison.murillop\source\repos\ConvertToUnixTimestamp\ConvertToUnixTimestamp\obj\Debug\ConvertToUnixTimestamp.pdb
