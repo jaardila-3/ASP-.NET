@@ -14,7 +14,8 @@
         <tr>
             <td width="10%"><strong>ID Marca</strong></td>
             <td width="20%">Nombre Marca</td>
-            <td width="70%">@Html.LabelFor(p => Model[0].Descripcion)</td> <!--helper para los tag anotation del modelo-->
+            <td width="60%">@Html.LabelFor(p => Model[0].Descripcion)</td> <!--helper para los tag anotation del modelo-->
+            <td width="10%">Operaciones</td>
         </tr>
     </thead>
     <tbody>
@@ -24,6 +25,13 @@
             <td>@item.IIDMarca</td>
             <td>@item.Nombre</td>
             <td>@item.Descripcion</td>
+            <td>
+                <!--agregamos dos link: para editar y eliminar la info-->
+                <!--agregamos un action link donde no mostrara texto, accion Editar, controller Marca y pasamos un parametro id-->
+                <!--este parametro id lo pasaremos en controller como parametro a la accion Editar-->
+                @Html.ActionLink(" ", "Editar", "Marca", new { id = @item.IIDMarca }, new { @class = "glyphicon glyphicon-edit btn btn-primary" })
+                @Html.ActionLink(" ", "Eliminar", "Marca", new { id = @item.IIDMarca }, new { @class = "glyphicon glyphicon-trash btn btn-danger" })
+            </td>
         </tr>
         }
         

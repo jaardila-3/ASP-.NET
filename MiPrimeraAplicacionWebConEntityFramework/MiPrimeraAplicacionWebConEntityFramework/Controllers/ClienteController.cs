@@ -83,5 +83,22 @@ namespace MiPrimeraAplicacionWebConEntityFramework.Controllers
             }
             return RedirectToAction("Index");
         }
+
+        public ActionResult Editar(int id)
+        {
+            ClienteCLS oclienteCLS = new ClienteCLS();
+            using(var bd= new BDPasajeEntities())
+            {
+                LlenarSexo();
+                ViewBag.lista = listaSexo;//tambien lo insertamos en la vista editar
+                Cliente ocliente = bd.Cliente.Where(p => p.IIDCLIENTE.Equals(id)).First();
+                oclienteCLS.IDCliente = ocliente.IIDCLIENTE;
+                oclienteCLS.Nombre = ocliente.NOMBRE;
+                oclienteCLS.APPaterno = ocliente.APMATERNO;
+                oclienteCLS.Direccion = ocliente.DIRECCION;
+                oclienteCLS.IDSexo = (int) ocliente.IIDSEXO;
+            }
+            return View();
+        }
     }
 }

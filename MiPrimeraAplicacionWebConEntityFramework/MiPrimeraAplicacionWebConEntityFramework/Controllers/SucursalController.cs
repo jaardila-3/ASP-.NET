@@ -59,5 +59,21 @@ namespace MiPrimeraAplicacionWebConEntityFramework.Controllers
             }
             return RedirectToAction("Index");
         }
+
+        public ActionResult Editar(int id)
+        {
+            SucursalCLS osucursalCLS = new SucursalCLS();
+            using (var bd = new BDPasajeEntities())
+            {
+                Sucursal osucursal = bd.Sucursal.Where(p => p.IIDSUCURSAL.Equals(id)).First();
+                osucursalCLS.IDSucursal = osucursal.IIDSUCURSAL;
+                osucursalCLS.Nombre = osucursal.NOMBRE;
+                osucursalCLS.Direccion = osucursal.DIRECCION;
+                osucursalCLS.Telefono = osucursal.TELEFONO;
+                osucursalCLS.Email = osucursal.EMAIL;
+                osucursalCLS.FechaApertura = (DateTime) osucursal.FECHAAPERTURA;
+            }
+            return View(osucursalCLS);
+        }
     }
 }

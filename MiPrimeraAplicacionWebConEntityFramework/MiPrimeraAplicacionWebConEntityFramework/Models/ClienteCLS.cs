@@ -27,6 +27,7 @@ namespace MiPrimeraAplicacionWebConEntityFramework.Models
         public string APMaterno { get; set; }
 
         [Display(Name = "Direccion Cliente")]
+        [DataType(DataType.MultilineText)]//textarea
         [StringLength(200, ErrorMessage = "Longitud maxima 200")]
         [Required]
         public string Direccion { get; set; }

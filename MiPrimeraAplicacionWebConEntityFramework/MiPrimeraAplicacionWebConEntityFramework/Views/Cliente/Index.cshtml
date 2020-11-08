@@ -12,10 +12,11 @@
         <tr>
             <td width="10%"><strong>ID Cliente</strong></td>
             <td width="20%"><strong>Nombre Cliente</strong></td>
-            <td width="20%"><strong>Apellido Paterno</strong></td>
-            <td width="20%"><strong>Apellido Materno</strong></td>
-            <td width="20%"><strong>Direccion</strong></td>
-            <td width="10%"><strong>Sexo</strong></td>
+            <td width="15%"><strong>Apellido Paterno</strong></td>
+            <td width="15%"><strong>Apellido Materno</strong></td>
+            <td width="25%"><strong>Direccion</strong></td>
+            <td width="5%"><strong>Sexo</strong></td>
+            <td width="10%"><strong>Operaciones</strong></td>
         </tr>
     </thead>
     <tbody>
@@ -28,6 +29,10 @@
             <td>@item.APMaterno</td>
             <td>@item.Direccion</td>
             <td>@item.IDSexo</td>
+            <td>
+                @Html.ActionLink(" ", "Editar", "Cliente", new { id = @item.IDCliente }, new { @class = "glyphicon glyphicon-edit btn btn-primary" })
+                @Html.ActionLink(" ", "Eliminar", "Cliente", new { id = @item.IDCliente }, new { @class = "glyphicon glyphicon-trash btn btn-danger" })
+            </td>
         </tr>
         }
 

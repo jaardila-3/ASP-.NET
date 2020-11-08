@@ -54,5 +54,20 @@ namespace MiPrimeraAplicacionWebConEntityFramework.Controllers
             }
             return RedirectToAction("Index");
         }
+
+
+        public ActionResult Editar(int id) // este id lo creamos en la vista index
+        {
+            MarcaCLS omarcaCLS = new MarcaCLS();
+            using(var bd=new BDPasajeEntities())
+            {
+                //validamos IDMarca con id
+                Marca omarca = bd.Marca.Where(p => p.IIDMARCA.Equals(id)).First();//where devuelve varias filas y first devuelve la primera
+                omarcaCLS.IIDMarca = omarca.IIDMARCA;
+                omarcaCLS.Nombre = omarca.NOMBRE;
+                omarcaCLS.Descripcion = omarca.DESCRIPCION;
+            }
+            return View(omarcaCLS);
+        }
     }
 }

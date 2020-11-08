@@ -33,7 +33,7 @@ namespace MiPrimeraAplicacionWebConEntityFramework.Models
         [Required]
         public string Email { get; set; }
 
-        [Display(Name = "FechaApertura sucursal")]
+        [Display(Name = "Fecha Apertura sucursal")]
         [Required]
         [DataType(DataType.Date)]//AYUDA EN LA VISTA
         [DisplayFormat(DataFormatString ="{0:YYYY-MM-DD}", ApplyFormatInEditMode =true)]//DA FORMATO
